@@ -1,3 +1,5 @@
+package Aula2;
+
 public class Aluno {
     // atributos ou propriedades ou variáveis de instância (objeto)
     String nome;
