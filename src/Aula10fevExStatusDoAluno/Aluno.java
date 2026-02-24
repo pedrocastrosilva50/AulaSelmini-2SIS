@@ -1,4 +1,4 @@
-package Aula2ExStatusDoAluno;
+package Aula10fevExStatusDoAluno;
 
 public class Aluno {
     // atributos ou propriedades ou variáveis de instância (objeto)

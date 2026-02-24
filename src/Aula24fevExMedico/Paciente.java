@@ -1,4 +1,4 @@
-package Aula4ExMedico;
+package Aula24fevExMedico;
 
 public class Paciente {
     String nome;
