@@ -1,4 +1,4 @@
-package Aula10fevExStatusDoAluno;
+package Aula10fev.ExStatusDoAluno;
 
 import java.util.Scanner;
 

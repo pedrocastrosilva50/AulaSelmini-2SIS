@@ -1,4 +1,4 @@
-package Aula24fevExMedico;
+package Aula24fev.Ex2FreqCardiaca;
 
 import java.util.Scanner;
 
