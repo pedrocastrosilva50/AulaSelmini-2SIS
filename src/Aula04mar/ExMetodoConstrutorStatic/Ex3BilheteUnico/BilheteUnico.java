@@ -18,14 +18,18 @@ public class BilheteUnico {
         this.saldo = 0;
     }
 
-    public void catracar(){
+    public void carregar(double valor){
+        this.saldo += valor;
+    }
+
+    public boolean catracar(){
         double valor = tarifa;
         if (tpTarifa.equalsIgnoreCase("professor") ||
                 tpTarifa.equalsIgnoreCase("estudante")){
             valor = tarifa / 2;
         }
         if (saldo < valor){
-            return;
+            return false;
             /*System.out.println("Saldo Insuficiente ! Saldo atual: "+saldo);
 
             ESSE JEITO NAO SERIA A MELHOR MANEIRA DEVIDO SE FOR EVOLUIR PRA UM PROGRAMA MAIOR,
@@ -34,6 +38,7 @@ public class BilheteUnico {
         }
 
         saldo -= valor;
+        return true;
     }
 
 }
