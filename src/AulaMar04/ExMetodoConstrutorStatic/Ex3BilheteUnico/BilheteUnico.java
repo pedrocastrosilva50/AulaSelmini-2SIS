@@ -1,4 +1,4 @@
-package Aula04mar.ExMetodoConstrutorStatic.Ex3BilheteUnico;
+package AulaMar04.ExMetodoConstrutorStatic.Ex3BilheteUnico;
 
 import java.util.Random;
 

@@ -1,4 +1,4 @@
-package Aula24fev.Ex3Professor;
+package AulaFev24.Ex3Professor;
 
 public class Professor {
     String nome;

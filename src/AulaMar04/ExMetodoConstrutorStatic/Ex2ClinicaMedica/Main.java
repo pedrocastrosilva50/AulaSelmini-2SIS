@@ -1,4 +1,4 @@
-package Aula04mar.ExMetodoConstrutorStatic.Ex2ClinicaMedica;
+package AulaMar04.ExMetodoConstrutorStatic.Ex2ClinicaMedica;
 
 import java.util.ArrayList;
 import java.util.Scanner;

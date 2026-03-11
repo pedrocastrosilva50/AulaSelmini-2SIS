@@ -1,4 +1,4 @@
-package Aula23fev.Ex1NeoBank;
+package AulaFev23.Ex1NeoBank;
 
 import java.util.Random;
 import java.util.Scanner;

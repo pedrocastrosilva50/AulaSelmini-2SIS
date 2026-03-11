@@ -1,4 +1,4 @@
-package Aula03mar.ExMetodoConstrutor.Ex1LojaVirtual;
+package AulaMar03.ExMetodoConstrutor.Ex1LojaVirtual;
 
 import java.util.Scanner;
 

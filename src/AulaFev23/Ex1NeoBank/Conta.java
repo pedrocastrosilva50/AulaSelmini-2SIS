@@ -1,4 +1,4 @@
-package Aula23fev.Ex1NeoBank;
+package AulaFev23.Ex1NeoBank;
 
 public class Conta {
 
