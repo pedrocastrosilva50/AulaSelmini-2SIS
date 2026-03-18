@@ -6,8 +6,8 @@ public class Usuario {
     String tpTarifa;
 
     public Usuario(String nome, long cpf,String tpTarifa) {
-        this.nome;
-        this.cpf;
-        this.tpTarifa;
+        this.nome = nome;
+        this.cpf = cpf;
+        this.tpTarifa = tpTarifa;
     }
 }
